@@ -1,2 +1,2 @@
-# my-project
-Movie recommendation system
+# Movie recommendation project
+Recommendation of movie
